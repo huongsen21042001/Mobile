@@ -70,8 +70,3 @@ private fun Content(
 }
 
 
-//@Preview
-//@Composable
-//fun ListFoodPreview() {
-//    ShowOneFood(oneFood = Food("Trà sữa trân châu", R.drawable.trasuatranchau))
-//}

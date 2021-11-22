@@ -63,7 +63,7 @@ fun RandomFoodScreen(
                     }
                 }
             )
-        },
+        },  
         content = {
             Column(
                 modifier = Modifier.fillMaxSize(),
